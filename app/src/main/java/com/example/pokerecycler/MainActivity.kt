@@ -7,6 +7,8 @@ import com.example.pokerecycler.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    // Comentario Adicional
+
     lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
